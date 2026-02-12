@@ -1,16 +1,25 @@
-## Hi there 👋
+Ogunseye Oluwasegun
+Entry-Level Cybersecurity Analyst | Northern Ireland
 
-<!--
-**Tohbadt/Tohbadt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
 
-Here are some ideas to get you started:
+Mathematics graduate with practical cybersecurity training and hands-on experience in network analysis, vulnerability assessment, and risk documentation. Passionate about Security Operations (SOC), threat detection, and governance, risk & compliance (GRC).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Core Interests
+Security Operations
+Log Analysis
+Vulnerability Assessment
+Cloud Security Fundamentals
+Risk & Compliance
+Certifications
+Google Cybersecurity Certificate (2024)
+Cybersecurity Certificate of Completion
+Introduction to Artificial Intelligence
+Generative AI Certification
+Currently Building
+Network traffic analysis labs
+Vulnerability scanning documentation
+Incident response simulations
+
+Connect With Me
+www.linkedin.com/in/0luwasegun
